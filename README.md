@@ -187,6 +187,12 @@ Optional schema validation file (board-schema.json) can be updated if Trello's A
 
 You can integrate this project with CI/CD tools for automated testing pipelines.
 
+## 📊 Presentation
+
+- [Project Slides (Google Drive)](https://drive.google.com/drive/folders/1dUoWVUxOqc3z_EVpvu8rJ7GCWKj0hkpC)
+- [Project Demo Video (Google Drive)](https://drive.google.com/drive/folders/1dUoWVUxOqc3z_EVpvu8rJ7GCWKj0hkpC)
+
+
 
 
 
