@@ -80,6 +80,8 @@ TRELLO_TOKEN=your_token_here
 🔒 Never commit your .env file. Add .env to .gitignore.
 
 2️⃣ Open in Your IDE
+
+
 🧠 IntelliJ IDEA (Recommended)
 Open IntelliJ IDEA.
 
